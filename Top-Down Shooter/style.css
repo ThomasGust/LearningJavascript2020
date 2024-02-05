@@ -1,0 +1,29 @@
+aside.values{
+  float:right;
+  padding-right: 550px;
+}
+
+p.score{
+  color: gold;
+  font-family: "Lucida Console", Courier, monospace;
+  font-size: large;
+  font-weight: bold;
+}
+p.waves{
+  color: blue;
+  font-family: "Lucida Console", Courier, monospace;
+  font-size: large;
+  font-weight: bold;
+}
+
+p.enemyCoins{
+  color: red;
+  font-family: "Lucida Console", Courier, monospace;
+  font-size: large;
+  font-weight: bold;;
+}
+p.totalScore{
+  color: green;
+  font-family: "Lucida Console", Courier, monospace;
+  font-size: large;
+}
